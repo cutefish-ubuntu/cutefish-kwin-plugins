@@ -3,7 +3,9 @@ Some configurations and plugins of KWin.
 
 ## Dependencies
 
-`sudo apt install extra-cmake-modules qt5-base qt5-declarative kconfig kdecoration kguiaddons kcoreaddons kconfigwidgets kwindowsystem kwayland kwin
+```
+sudo apt install extra-cmake-modules qt5-base qt5-declarative kconfig kdecoration kguiaddons kcoreaddons kconfigwidgets kwindowsystem kwayland kwin
+```
 
 ## Build
 
