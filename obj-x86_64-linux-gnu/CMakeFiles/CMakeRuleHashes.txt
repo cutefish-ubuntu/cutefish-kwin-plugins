@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+8b4649647f3efa910a4a4fda3d3c8103 plugins/decoration/CMakeFiles/cutefishdecoration_autogen
+ec7d5fb27f6fc2e59a65d41493b5a024 plugins/decoration/cutefishdecoration_autogen/EWIEGA46WW/qrc_resources.cpp
+937922825410dde39fcdc74727d3ad9b plugins/roundedwindow/CMakeFiles/roundedwindow_autogen
+9e4dcfa177bf161525457106aaf6b7bb plugins/roundedwindow/roundedwindow_autogen/EWIEGA46WW/qrc_resources.cpp

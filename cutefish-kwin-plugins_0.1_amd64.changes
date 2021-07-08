@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 16 Oct 2014 17:22:15 +0200
+Source: cutefish-kwin-plugins
+Binary: cutefish-kwin-plugins
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Changed-By: CutefishOS <cutefishos@foxmail.com>
+Description:
+ cutefish-kwin-plugins - CutefishOS KWin Plugins
+Changes:
+ cutefish-kwin-plugins (0.1) UNRELEASED; urgency=low
+ .
+   * Initial release (CutefishOS)  <cutefishos@foxmail.com>
+Checksums-Sha1:
+ 21daa409dde03353a5d8daae0299597ed70ad719 1079620 cutefish-kwin-plugins-dbgsym_0.1_amd64.ddeb
+ 260d6d12a9c9329736a9a23faa16233b817389a8 23917 cutefish-kwin-plugins_0.1_amd64.buildinfo
+ 4f962fcb5e305c454321b8500d7b37bc0b44a67e 41292 cutefish-kwin-plugins_0.1_amd64.deb
+Checksums-Sha256:
+ 5f22258005e97c7ef411c77856a0266fe5d3ba479b02c39f8cf2b632f1c82805 1079620 cutefish-kwin-plugins-dbgsym_0.1_amd64.ddeb
+ b49e05f07138e3ca6dd2e73841f674e81ebd0ebd8c8181f34ddc0a73188ca80d 23917 cutefish-kwin-plugins_0.1_amd64.buildinfo
+ 0d7523379d563567bfe01709fb5fcfb3e9bd46c47a66eb78aa7b1d423b85910a 41292 cutefish-kwin-plugins_0.1_amd64.deb
+Files:
+ 930a0740d47328f0a70c3277c21ae44e 1079620 debug optional cutefish-kwin-plugins-dbgsym_0.1_amd64.ddeb
+ b555d6c87cfcb0c17bfbc3fa26ba1624 23917 devel optional cutefish-kwin-plugins_0.1_amd64.buildinfo
+ 66c8c4f8b0afd2ad4d2e7c017c1c1b58 41292 devel optional cutefish-kwin-plugins_0.1_amd64.deb

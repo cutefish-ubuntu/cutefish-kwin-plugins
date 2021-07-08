@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/cutefishdecoration_autogen",
+	"CMAKE_BINARY_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/Downloads/cutefish/kwin-plugins/plugins/decoration",
+	"CMAKE_SOURCE_DIR" : "/root/Downloads/cutefish/kwin-plugins",
+	"INCLUDE_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/cutefishdecoration_autogen/include",
+	"INPUTS" : 
+	[
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/images/light/restore_normal.svg",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/images/light/minimize_normal.svg",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/images/light/close_normal.svg",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/images/light/maximize_normal.svg",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/images/dark/restore_normal.svg",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/images/dark/minimize_normal.svg",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/images/dark/close_normal.svg",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/images/dark/maximize_normal.svg"
+	],
+	"LOCK_FILE" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/CMakeFiles/cutefishdecoration_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/CMakeFiles/cutefishdecoration_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/root/Downloads/cutefish/kwin-plugins/plugins/decoration/resources.qrc",
+	"VERBOSITY" : 0
+}

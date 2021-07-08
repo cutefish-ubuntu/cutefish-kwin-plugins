@@ -1,0 +1,10 @@
+Package: cutefish-kwin-plugins
+Version: 0.1
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 209
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, libc6 (>= 2.29), libepoxy0 (>= 1.0), libgcc-s1 (>= 3.3.1), libkdecorations2-5v5 (>= 5.1.50), libkf5coreaddons5 (>= 4.99.0), libkwineffects13 (>= 4:5.20.80), libkwinglutils13 (>= 4:5.20.3), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libstdc++6 (>= 5)
+Section: devel
+Priority: optional
+Homepage: https://github.com/cutefishos/terminal
+Description: CutefishOS KWin Plugins

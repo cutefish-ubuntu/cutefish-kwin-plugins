@@ -1,0 +1,186 @@
+{
+	"BUILD_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/cutefishdecoration_autogen",
+	"CMAKE_BINARY_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/Downloads/cutefish/kwin-plugins/plugins/decoration",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/CMakeLists.txt",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsToolingTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsMacros.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsQchTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigTargets-debian.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigQchTargets.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfigExtras.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5DBus/Qt5DBusMacros.cmake",
+		"/usr/share/cmake-3.18/Modules/MacroAddFileDependencies.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets-debian.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigMacros.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemQchTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KDecoration2/KDecoration2ConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KDecoration2/KDecoration2Config.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KDecoration2/KDecoration2Targets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KDecoration2/KDecoration2Targets-debian.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/root/Downloads/cutefish/kwin-plugins",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/button.h",
+			"MU",
+			"EWIEGA46WW/moc_button.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/decoration.h",
+			"MU",
+			"EWIEGA46WW/moc_decoration.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/cutefishdecoration_autogen/include",
+	"MOC_COMPILATION_FILE" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/cutefishdecoration_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"KCOREADDONS_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"cutefishdecoration_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/decoration",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/KF5/KConfigCore",
+		"/usr/include/KF5",
+		"/usr/include/KF5/KConfigGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/KF5/KCoreAddons",
+		"/usr/include/KF5/KWindowSystem",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/KDecoration2",
+		"/usr/include",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/cutefishdecoration_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/CMakeFiles/cutefishdecoration_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/decoration/CMakeFiles/cutefishdecoration_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/button.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/kwin-plugins/plugins/decoration/decoration.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

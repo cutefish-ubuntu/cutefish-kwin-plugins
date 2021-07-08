@@ -1,0 +1,15 @@
+/etc/xdg/kglobalshortcutsrc
+/etc/xdg/kwinrc
+/etc/xdg/kwinrulesrc
+/usr/share/kwin/scripts/cutefishlauncher/contents/main.js
+/usr/share/kwin/scripts/cutefishlauncher/metadata.desktop
+/usr/share/kwin/effects/cutefish_squash/contents/code/main.js
+/usr/share/kwin/effects/cutefish_squash/metadata.desktop
+/usr/share/kwin/effects/cutefish_squash/metadata.json
+/usr/share/kwin/effects/cutefish_scale/contents/code/main.js
+/usr/share/kwin/effects/cutefish_scale/metadata.desktop
+/usr/share/kwin/effects/cutefish_scale/metadata.json
+/usr/share/kwin/tabbox/cutefish_thumbnail/contents/ui/main.qml
+/usr/share/kwin/tabbox/cutefish_thumbnail/metadata.desktop
+/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/libcutefishdecoration.so
+/usr/lib/x86_64-linux-gnu/qt5/plugins/kwin/effects/plugins/libroundedwindow.so

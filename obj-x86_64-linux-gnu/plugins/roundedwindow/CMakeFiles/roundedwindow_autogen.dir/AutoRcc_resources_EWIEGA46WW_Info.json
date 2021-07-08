@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/roundedwindow/roundedwindow_autogen",
+	"CMAKE_BINARY_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/roundedwindow",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/Downloads/cutefish/kwin-plugins/plugins/roundedwindow",
+	"CMAKE_SOURCE_DIR" : "/root/Downloads/cutefish/kwin-plugins",
+	"INCLUDE_DIR" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/roundedwindow/roundedwindow_autogen/include",
+	"INPUTS" : 
+	[
+		"/root/Downloads/cutefish/kwin-plugins/plugins/roundedwindow/shaders.frag.110",
+		"/root/Downloads/cutefish/kwin-plugins/plugins/roundedwindow/shaders.frag.140"
+	],
+	"LOCK_FILE" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/roundedwindow/CMakeFiles/roundedwindow_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/root/Downloads/cutefish/kwin-plugins/obj-x86_64-linux-gnu/plugins/roundedwindow/CMakeFiles/roundedwindow_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/root/Downloads/cutefish/kwin-plugins/plugins/roundedwindow/resources.qrc",
+	"VERBOSITY" : 0
+}

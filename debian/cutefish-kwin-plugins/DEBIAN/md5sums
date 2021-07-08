@@ -1,0 +1,14 @@
+40c89c338b0235137bf912e451b77967  usr/lib/x86_64-linux-gnu/qt5/plugins/kwin/effects/plugins/libroundedwindow.so
+532dcc242392ec0d85705e7583dd2974  usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/libcutefishdecoration.so
+e7e785817d0a37eb9e6fd3dbd6b3b7b5  usr/share/doc/cutefish-kwin-plugins/changelog.gz
+031054821a869cc3123fa80dd060d043  usr/share/doc/cutefish-kwin-plugins/copyright
+bcb1d2884d175d87901437ba583f9cbf  usr/share/kwin/effects/cutefish_scale/contents/code/main.js
+578d3f649e9cdb6fc426cbe328c36e40  usr/share/kwin/effects/cutefish_scale/metadata.desktop
+e83b1412d6a16947b98ea4f098b3448e  usr/share/kwin/effects/cutefish_scale/metadata.json
+7e549713fae120ffa26001d3fbd5e064  usr/share/kwin/effects/cutefish_squash/contents/code/main.js
+065b5a5f1f44fb866f0c3d08b847147f  usr/share/kwin/effects/cutefish_squash/metadata.desktop
+8ef2fb35277cd8a653b95f7cc72b0529  usr/share/kwin/effects/cutefish_squash/metadata.json
+0c6f7739fd46bb8cb306542acdbdb8be  usr/share/kwin/scripts/cutefishlauncher/contents/main.js
+963c58d24b934c694cdbda4d259680b2  usr/share/kwin/scripts/cutefishlauncher/metadata.desktop
+8757f8737e0eaab8dc931d791bfeae1a  usr/share/kwin/tabbox/cutefish_thumbnail/contents/ui/main.qml
+f933a07669e1aeb75833845fb84d18e3  usr/share/kwin/tabbox/cutefish_thumbnail/metadata.desktop
